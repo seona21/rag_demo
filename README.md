@@ -70,7 +70,7 @@ rag_demo/
 
 - GitHub Codespaces 권장 (로컬 환경도 가능)
 - Jupyter Notebook 기반 단계별 실습
-- Streamlit 챗봇 예제 포함 (`app/streamlit_app.py`)
+- Streamlit 챗봇 예제 포함 (`chat.py`)
 
 ---
 
@@ -84,7 +84,7 @@ rag_demo/
 3. Jupyter로 각 모듈 노트북 실행  
 4. (옵션) Streamlit 챗봇 실행  
    ```bash
-   streamlit run app/streamlit_app.py
+   streamlit run chat.py
    ```
 
 ---
