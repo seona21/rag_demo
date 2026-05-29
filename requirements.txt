@@ -10,3 +10,5 @@ tiktoken
 pymupdf
 langchain-core
 langsmith
+mcp
+langchain-mcp-adapters
